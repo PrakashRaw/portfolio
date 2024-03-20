@@ -1,0 +1,13 @@
+git init
+git remote add origin <https://github.com/PrakashRaw/Web>
+to check step 2   >-v
+
+day to day propose
+1.> git status(optional)
+2. git add .
+(individual file) git add<filename>
+3. git commit -m
+4. git push
+
+to clone other repo
+1. git clone <url>
